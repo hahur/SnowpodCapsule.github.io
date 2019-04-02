@@ -88,10 +88,10 @@ nav{
 }
 .gradient-back{
   background: rgb(255,255,255);
-background: -moz-linear-gradient(0deg, rgba(255,255,255,0) 50%, rgba(64,189,249,0.3613841881912746) 100%);
-background: -webkit-linear-gradient(0deg, rgba(255,255,255,0) 50%, rgba(64,189,249,0.3613841881912746) 100%);
-background: linear-gradient(0deg, rgba(255,255,255,0) 50%, rgba(64,189,249,0.3613841881912746) 100%);
-filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#ffffff",endColorstr="#40bdf9",GradientType=1);
+  background: -moz-linear-gradient(0deg, rgba(255,255,255,0) 50%, rgba(64,189,249,0.3613841881912746) 100%);
+  background: -webkit-linear-gradient(0deg, rgba(255,255,255,0) 50%, rgba(64,189,249,0.3613841881912746) 100%);
+  background: linear-gradient(0deg, rgba(255,255,255,0) 50%, rgba(64,189,249,0.3613841881912746) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#ffffff",endColorstr="#40bdf9",GradientType=1);
   position: absolute;
   top: 0;
   left: 0;
