@@ -82,3 +82,7 @@
 -moz-box-shadow: inset 6px -6px 10px 1px rgba(144,202,249,1);
 box-shadow: inset 6px -6px 10px 1px rgba(144,202,249,1);
 }
+#logo-container-secondary{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 200;
+}
