@@ -6,6 +6,7 @@
  * Made By MaterializeCSS.com
  */
  @import url('https://fonts.googleapis.com/css?family=Montserrat:200');
+ @import url('https://fonts.googleapis.com/css?family=Raleway');
 
 
 
@@ -68,14 +69,11 @@
   width: 100%;
   height: auto;
 }
-.navbar-highlight-bottom{
-  background-color: rgb(60, 167, 255);
+/*.navbar-highlight-bottom{
+  background-color: rgba(57, 183, 241, 0.342);
   width: 100%;
   height: 7px;
-}
-#index-banner{
-  border-top: 6px solid rgba(32, 173, 255, 0.616);
-}
+}*/
 nav{
   background-color: transparent;
   box-shadow: none;
@@ -83,4 +81,7 @@ nav{
 .hero-word{
   /*color: #fff;*/
   font-family: 'Montserrat', sans-serif;
+}
+.sidenav{
+  font-family: 'Raleway',-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif, sans-serif;
 }
